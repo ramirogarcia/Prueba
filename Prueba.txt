@@ -9,3 +9,6 @@ Estas lineas estan generadas en el archivo que se encuentra en el notebook.
 ** inicio ** comenzamos a trabajar en la rama develop del notebook.
 
 ** seguimos haciendo cambios en el notebook
+
+** y estos cambios son hechos en inet
+
