@@ -14,3 +14,7 @@ estos cambios son de inet
 
 bien hecho, ahora estos son del notebook
 
+
+** en develop **
+se hicieron modificaciones en este archivo pero dentro de la rama main, y estos estan en develop, lo que causara un conflicto. que debemos resolver para aplicar el merge.
+
