@@ -12,3 +12,5 @@ Estas lineas estan generadas en el archivo que se encuentra en el notebook.
 
 estos cambios son de inet
 
+bien hecho, ahora estos son del notebook
+
