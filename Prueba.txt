@@ -18,4 +18,9 @@ bien hecho, ahora estos son del notebook
 Luego de crear la rama main, hacemos estos cambios para ver como se reflejan en el PC.
 
 
+=======
+
+** en develop **
+se hicieron modificaciones en este archivo pero dentro de la rama main, y estos estan en develop, lo que causara un conflicto. que debemos resolver para aplicar el merge.
+>>>>>>> develop
 
