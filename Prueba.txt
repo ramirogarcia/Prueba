@@ -14,6 +14,7 @@ estos cambios son de inet
 
 bien hecho, ahora estos son del notebook
 
+<<<<<<< HEAD
 ** en main ++
 Luego de crear la rama main, hacemos estos cambios para ver como se reflejan en el PC.
 
