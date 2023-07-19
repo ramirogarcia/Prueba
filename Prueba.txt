@@ -10,5 +10,3 @@ Estas lineas estan generadas en el archivo que se encuentra en el notebook.
 
 ** seguimos haciendo cambios en el notebook
 
-** y estos cambios son hechos en inet
-
