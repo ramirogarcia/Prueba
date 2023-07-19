@@ -4,3 +4,5 @@ Esta es una prueba.
 Estas lineas estan generadas en el archivo que se encuentra en el notebook.
 ** fin.
 
+** estas lineas estan escritas en la edicion de INET. por tanto es probable que colidan con la version del notebook.
+
